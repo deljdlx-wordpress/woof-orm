@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Woof\\ORM\\": "./class"
+        }
+    },
+    "require": {
+        "illuminate/database": "^8.29"
+    },
+    "config": {
+        "vendor-dir": "static-vendor"
+    }
+}
